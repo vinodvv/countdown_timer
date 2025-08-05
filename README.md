@@ -44,7 +44,7 @@ No external libraries are required.
     python timer_gui.py
    ```
 ## 🛠️ File Structure
-    ```bash
+    
     countdown-timer-app/
     │
     ├── countdown_timer.py   # CLI script
